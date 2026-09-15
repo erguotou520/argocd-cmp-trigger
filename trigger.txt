@@ -1,1 +1,1 @@
-1789321118
+2026-09-15T06:09:08Z middleware-migration: pg/valkey/clickhouse CM 内容更新，触发插件重新生成清单
