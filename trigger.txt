@@ -1,1 +1,2 @@
 2026-09-15T06:09:08Z middleware-migration: pg/valkey/clickhouse CM 内容更新，触发插件重新生成清单
+2026-09-15T06:22:03Z 增加每应用独立 APP_DIR 缓存键，消除共享缓存竞态
